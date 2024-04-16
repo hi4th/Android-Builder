@@ -21,17 +21,17 @@
       "externalCommands": {
         "CROSS_COMPILE": "aarch64-linux-gnu-",
         "CROSS_COMPILE_ARM32": "arm-linux-gnueabi-",
-        "LD": "clang/clang/bin/ld.lld",
-        "AR": "clang/clang/bin/llvm-ar",
-        "NM": "clang/clang/bin/llvm-nm",
-        "OBJCOPY": "clang/clang/bin/llvm-objcopy",
-        "OBJDUMP": "clang/clang/bin/llvm-objdump",
-        "READELF": "clang/clang/bin/llvm-readelf",
-        "OBJSIZE": "clang/clang/bin/llvm-size",
-        "STRIP": "clang/clang/bin/llvm-strip",
-        "LDGOLD": "clang/clang/bin/aarch64-linux-gnu-ld.gold",
-        "LLVM_AR": "clang/clang/bin/llvm-ar",
-        "LLVM_DIS": "clang/clang/bin/llvm-dis"
+        "LD": "ld.lld",
+        "AR": "llvm-ar",
+        "NM": "llvm-nm",
+        "OBJCOPY": "llvm-objcopy",
+        "OBJDUMP": "llvm-objdump",
+        "READELF": "llvm-readelf",
+        "OBJSIZE": "llvm-size",
+        "STRIP": "llvm-strip",
+        "LDGOLD": "aarch64-linux-gnu-ld.gold",
+        "LLVM_AR": "llvm-ar",
+        "LLVM_DIS": "llvm-dis"
       }
     },
     "AnyKernel3": {
