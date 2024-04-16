@@ -12,7 +12,7 @@
       {
         "name": "clang",
         "url": "https://codeberg.org/Mandi-Sa/clang/archive/amd64-full-toolchain-20240414.tar.gz",
-        "binaryEnv": ["./bin"]
+        "binaryEnv": ["bin"]
       }
     ],
     "params": {
