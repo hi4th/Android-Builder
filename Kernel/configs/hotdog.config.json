@@ -11,7 +11,7 @@
     "toolchains": [
       {
         "name": "clang",
-        "url": "https://codeberg.org/Mandi-Sa/clang/archive/amd64-kernel-arm-20240303.zip",
+        "url": "https://github.com/Neutron-Toolchains/clang-build-catalogue/releases/download/10032024/neutron-clang-10032024.tar.zst",
         "binaryEnv": ["bin"]
       }
     ],
