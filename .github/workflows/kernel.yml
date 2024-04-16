@@ -298,6 +298,7 @@ jobs:
         env:
           ARGS: ${{ steps.generate-args.outputs.ARGS }}
         run: |
+          export export PATH="$PATH:/home/runner/work/Android-Builder/Android-Builder/clang/clang/bin"
           echo "🤔 PATH Variable: $PATH"
           # ls /home/runner/work/Android-Builder/Android-Builder/bin
           ls /home/runner/work/Android-Builder/Android-Builder
