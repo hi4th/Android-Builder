@@ -12,7 +12,7 @@
       {
         "name": "clang",
         "url": "https://codeberg.org/Mandi-Sa/clang/archive/amd64-kernel-arm-20240303.tar.gz",
-        "binaryEnv": ["bin"]
+        "binaryEnv": ["clang/bin"]
       }
     ],
     "params": {
