@@ -11,7 +11,7 @@
     "toolchains": [
       {
         "name": "clang",
-        "url": "https://codeberg.org/Mandi-Sa/clang/archive/amd64-kernel-arm-20240303.tar.gz",
+        "url": "https://codeberg.org/Mandi-Sa/clang/archive/amd64-kernel-arm-20240303.zip",
         "binaryEnv": ["./bin"]
       }
     ],
